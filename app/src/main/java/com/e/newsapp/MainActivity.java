@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     SwipeRefreshLayout swipeRefreshLayout;
     final String API_KEY = "c0fd3df3c4e0416a888553efb586aecd";
     Adapter adapter;
-    List<Articles> articles = new ArrayList<>(5);
+    List<Articles> articles = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
