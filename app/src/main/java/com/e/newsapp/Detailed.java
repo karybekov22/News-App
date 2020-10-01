@@ -3,6 +3,7 @@ package com.e.newsapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.media.Image;
 import android.os.Bundle;
 import android.view.View;
@@ -25,7 +26,10 @@ public class Detailed extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR);
         setContentView(R.layout.activity_detailed);
+
+
 
         tvTitle = findViewById(R.id.tvTitle);
         tvSource = findViewById(R.id.tvSource);

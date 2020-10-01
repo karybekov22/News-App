@@ -3,6 +3,7 @@ package com.e.newsapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 
 import static java.lang.Thread.sleep;
@@ -13,6 +14,8 @@ public class SplashScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
+
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR);
 
         Thread thread = new Thread(new Runnable() {
             @Override
