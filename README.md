@@ -16,4 +16,7 @@ Features:
 - Screen Orientation
 - Changed Icon
 
-![/Screen Shot 2020-09-18 at 01.17.36.png](https://github.com/karybekov22/Calculator-App-for-MAD/blob/master/Screen%20Shot%202020-09-18%20at%2001.17.36.png)
+![/Icon Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Icon%20Screen.png){:height="50%" width="50%"}
+![/Splash Screen Screenshot.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Splash%20Screen%20Screenshot.png)
+![/Main Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Main%20Screen.png)
+![/Detailed Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Detailed%20Screen.png)
