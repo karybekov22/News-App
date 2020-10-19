@@ -16,7 +16,7 @@ Features:
 - Screen Orientation
 - Changed Icon
 
-![/Icon Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Icon%20Screen.png){:height="50%" width="50%"}
+![/Icon Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Icon%20Screen.png width="400" height="790")
 ![/Splash Screen Screenshot.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Splash%20Screen%20Screenshot.png)
 ![/Main Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Main%20Screen.png)
 ![/Detailed Screen.png](https://github.com/karybekov22/News-App/blob/master/Screenshots/Detailed%20Screen.png)
