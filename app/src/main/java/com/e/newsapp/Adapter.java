@@ -77,8 +77,8 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
     public int getItemCount(){
 
         //First one printss all articles, other only 10.
-        //return articles.size();
-        return 10;
+        return articles.size();
+//        return 10;
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
