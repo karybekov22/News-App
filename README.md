@@ -13,6 +13,8 @@ The main and only feature of this app is getting news from the newsapi.org and s
 - [x] Retrofit calls(10 points)(Bonus)
 - [x] Unit testing (10 points)(Bonus)
 
+Latest:
+- Added some local unit test. ([link](https://github.com/karybekov22/News-App/blob/147308816b5e1b842ab5fd659e24c4aa8c29c7e7/app/src/test/java/com/e/newsapp/MainActivityTest.java#L10-L39))
 
 Features:
 - News API
@@ -34,3 +36,4 @@ Tutorials used:
 <img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Icon%20Screen.png" width="400" height="600">      <img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Splash%20Screen%20Screenshot.png" width="400" height="600">
 <img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Main%20Screen.png" width="400" height="600">
 <img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Detailed%20Screen.png" width="400" height="600">
+
