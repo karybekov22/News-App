@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public String getCountry(){
+    public static String getCountry(){
         Locale locale = Locale.getDefault();
         String country = locale.getCountry();
         return country.toLowerCase();
