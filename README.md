@@ -11,7 +11,7 @@ The main and only feature of this app is getting news from the newsapi.org and s
 - [x] Application Icon(10 points)
 - [x] Animation and design (Figma or other)(10 points)
 - [x] Retrofit calls(10 points)(Bonus)
-- [ ] Unit testing (10 points)(Bonus)
+- [x] Unit testing (10 points)(Bonus)
 
 
 Features:
